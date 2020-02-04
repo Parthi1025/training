@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "gaining nodejs project",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node application.js"
+  },
+  "keywords": [
+    "gaining",
+    "nodejs",
+    "practice"
+  ],
+  "author": "Parthi <parthi@example.com>",
+  "license": "MIT"
+}
